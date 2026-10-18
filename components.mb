@@ -1,0 +1,27 @@
+NeerRakshak — Hardware Components
+
+Project Overview :
+
+NeerRakshak is an ESP32-based smart water leakage detection system designed to detect leaks, alert users, and shut off the water supply automatically.
+
+Main Hardware:
+
+- ESP32 development board — main controller
+- Water leakage sensor — detects the presence of leaked water
+- Alert device — provides a warning when leakage is detected
+- Relay module — controls the shut-off mechanism, if required by the final design
+- Water shut-off actuator or valve — stops water flow
+- Power supply — powers the circuit
+- Connecting wires and prototyping materials
+
+Assembly Status:
+
+Not started yet.
+
+Testing Status:
+
+Pending.
+
+Notes:
+
+The final component list, pin connections, and operating details will be updated after checking the actual hardware available to the team.
