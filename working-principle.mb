@@ -1,0 +1,25 @@
+Working Principle — NeerRakshak
+
+1. Leakage Detection
+
+A water leakage sensor detects the presence of water in the monitored area.
+
+2. Signal Processing
+
+The ESP32 reads the sensor output and determines whether the detected condition meets the configured leakage threshold.
+
+3. Alert System
+
+When leakage is detected, the ESP32 activates the planned alert mechanism to notify the user.
+
+4. Automatic Water Shut-Off
+
+The controller activates a suitable switching or actuator mechanism to close the water valve, once the final hardware design is confirmed.
+
+5. System Reset
+
+After the leak is resolved, the system can be checked and reset according to the implemented control logic.
+
+Current Development Status
+
+The system design is being documented. Hardware assembly and testing have not started yet.
